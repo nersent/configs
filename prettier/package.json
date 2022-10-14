@@ -1,0 +1,15 @@
+{
+  "name": "@nersent/prettier-config",
+  "version": "0.1.0",
+  "main": "index.json",
+  "files": [
+    "index.json"
+  ],
+  "repository": "https://github.com/nersent/configs.git",
+  "homepage": "https://nersent.com",
+  "author": "Mikołaj Palkiewicz <mikolaj@nersent.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
